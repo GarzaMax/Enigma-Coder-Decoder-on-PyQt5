@@ -21,6 +21,7 @@ Added copy button that can help to save a little time
 ver. 1.0.0
 
 First upload
+
 Crypt and Encrypt function realized
 
 
