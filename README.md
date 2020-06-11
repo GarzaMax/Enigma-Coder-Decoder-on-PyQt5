@@ -2,7 +2,7 @@
 
 # How to use?
 
-Firt of all write smth in lext teft input
+First of all write smth in left text input
 
 Then, fill in 3 numbers in 3 little text input fields (Your pen friend need those 3 numbers too to encrypt your message)
 
