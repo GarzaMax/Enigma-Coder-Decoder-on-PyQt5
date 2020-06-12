@@ -1,6 +1,6 @@
 # Enigma-Coder-Decoder-on-PyQt5
 
-### Non-compiled vesion based on:
+### Non-compiled version based on:
 
 **Python 3.7.2**
 
