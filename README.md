@@ -3,8 +3,11 @@
 Non-compiled vesion based on:
 
 Python 3.7.2
+
 Pyside2 5.12.2
+
 shiboken 5.12.2 (Included in Pyside2)
+
 Pyperclip (used for operation with clipboard)
 
 # How to use?
