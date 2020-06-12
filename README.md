@@ -20,6 +20,16 @@ And now press "Crypt" or "Encrypt" to get the result
 
 # What's new?
 
+### ver. 1.0.5 stable and 1.0.5.1
+
+**Added:**
+
+NEW DESIGN
+
+1.0.5 used for dialogue
+
+1.0.5.1 used for group chats
+
 ### ver. 1.0.4
 
 **Added:**
