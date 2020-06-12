@@ -10,6 +10,18 @@ And now press "Crypt" or "Encrypt" to get the result
 
 # What's new?
 
+ver. 1.0.3
+
+Added:
+
+Paste button (It's clearing all text labels except of numbers labels)
+
+Label with name of programm
+
+Changed:
+
+Text alingment in the num labels now connected to the center
+
 ver. 1.0.2
 
 Added simple design based on CSS 3
